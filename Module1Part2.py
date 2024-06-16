@@ -1,0 +1,5 @@
+num1 = int(input("Enter First Number\n"))
+num2 = int(input("Enter Second Number\n"))
+print(num1,"*",num2,"is",(num1 * num2))
+print(num1,"/",num2,"is",(num1 / num2))
+input("Press Enter to exit.")
