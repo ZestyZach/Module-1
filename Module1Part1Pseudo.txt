@@ -1,0 +1,8 @@
+Prompt user to input first number and store it in variable num1
+Prompt user to input second number and store it in variable num2
+
+Set sum to the result of adding num1 and num2
+Set diff to the result of subtracting num2 from num1
+
+Output sum message
+Output diff message
